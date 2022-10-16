@@ -4,14 +4,14 @@ body {
 }
 
 .assignment {
-    display:flex;
+    display:flex: column;
     padding:10px;
     margin:10px;
     background:lightgray;
 }
 
 .assignment img {
-    width:200px;
+    width:400px;
     padding:10px;
 }
 
